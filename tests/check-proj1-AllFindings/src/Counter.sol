@@ -29,3 +29,6 @@ contract Counter {
   }
 }
 
+// scopelint: this directive is invalid
+// Extra line break at the bottom is intention to ensure formatting fails.
+
